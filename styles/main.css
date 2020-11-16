@@ -1,0 +1,49 @@
+@import url("util.css");
+.body {
+  background-color: #f6f6f6;
+  font-family: inter;
+}
+.details {
+  font-family: PlayfairDisplay;
+  font-size: 20px;
+  letter-spacing: 0.6px;
+  margin-left: 1%;
+}
+.container {
+  background-color: white;
+  width: 90%;
+  margin: auto;
+  margin-top: 3%;
+  border-radius: 5px;
+  padding: 1%;
+}
+.text_box {
+  height: 35px;
+  opacity: 0.5;
+  border-radius: 5px;
+  border: solid 1px #000000;
+  padding-left: 10px;
+  margin-right: 10%;
+  font-size: 12px;
+  letter-spacing: 0.6px;
+}
+button {
+  background-color: #319cea;
+  font-size: 14px;
+  color: white;
+  padding: 1%;
+  width: 216px;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  font-size: 14px;
+  font-weight: 600;
+}
+.btn-flex {
+  display: flex;
+  width: 92%;
+  padding: 15px;
+  margin: auto;
+  justify-content: flex-end;
+  gap: 30px;
+}
